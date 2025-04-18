@@ -6,4 +6,3 @@
 📱 +420 607 181 450  
 ✉️ helptechofficial24@gmail.com  
 💬 [Telegram – HelpTechCZ](https://t.me/HelpTechCZ)
-
