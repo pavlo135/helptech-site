@@ -20,6 +20,3 @@
 - **Графік:** 10:00 – 19:00 щодня
 
 ---
-
-## 🌐 Онлайн-версія сайту:
-[https://pavlo135.github.io/helptech-site/](https://pavlo135.github.io/helptech-site/)
